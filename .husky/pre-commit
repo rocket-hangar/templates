@@ -3,4 +3,5 @@
 
 yarn run lint-staged
 
-yarn workspace vite-react run precommit
+yarn workspace packages run precommit
+yarn workspace web run precommit
