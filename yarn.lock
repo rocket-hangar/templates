@@ -2076,61 +2076,61 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ssen/bundle-import-rewrite@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/bundle-import-rewrite@npm:4.0.0-alpha.1"
+"@ssen/bundle-import-rewrite@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/bundle-import-rewrite@npm:4.0.0"
   dependencies:
-    "@ssen/rewrite-bundle-import": ^4.0.0-alpha.1
+    "@ssen/rewrite-bundle-import": ^4.0.0
   peerDependencies:
     typescript: ^3.9.0 || ^4.0.0
-  checksum: 3b27a2915da298a428169a4b196549fffdce2aae0aacd6990c7cfd9235da2f59d67253aef7f688ed34626793cc04f573e464dde3f9e71f4783898859f08cd139
+  checksum: 2304af199e0189d8819cba19ab6361814c1e4f3ecfc19a2cb374569c4f9eae119e12544a5579fd29fd488711c82fadf9aaef5ea0b1c616e0be0116fb3e6f7521
   languageName: node
   linkType: hard
 
-"@ssen/collect-dependencies@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/collect-dependencies@npm:4.0.0-alpha.1"
+"@ssen/collect-dependencies@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/collect-dependencies@npm:4.0.0"
   dependencies:
     toposort: ^2.0.2
     type-fest: ^2.13.0
   peerDependencies:
     typescript: ^3.9.0 || ^4.0.0
-  checksum: 7dab6ffd996e006e294741c88c3fce669e92ac4dbf7c05f311f943a9a1b34000f50b900abe5570053c9d2584cc52e0478b3be898feda6e304196c3f6c9e90fa4
+  checksum: f59b5e1ddb6d3c6bb823bb3765109622108f9bfd0de8a0e26ae5ce3a5588a32ed54a29167567e5d1c0dd6bff8e54ddd89c31745c0417b5ac018d0e4425b5116d
   languageName: node
   linkType: hard
 
-"@ssen/extended-compiler-host@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/extended-compiler-host@npm:4.0.0-alpha.1"
+"@ssen/extended-compiler-host@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/extended-compiler-host@npm:4.0.0"
   dependencies:
-    "@ssen/transform": ^4.0.0-alpha.1
+    "@ssen/transform": ^4.0.0
     react: ^18.1.0
   peerDependencies:
     typescript: ^3.9.0 || ^4.0.0
-  checksum: d7d6ab6cf7bd2606e4784f3d97bfde50c13914845caa91fbac37db326dff1d6dc54cde56fc3c78394af9cb29ccd2107eb572997f590f8730e211f5936e252e01
+  checksum: 9f02a38c762d33f5a20098a565dae4ec5b0e5a2dc4092d7ffb8c10b44792c568a7bc62eaa2c0994783f2a8c38b00e9c62ca4c38b19192b540458a3b4883544fd
   languageName: node
   linkType: hard
 
-"@ssen/flat-package-name@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/flat-package-name@npm:4.0.0-alpha.1"
-  checksum: 2ac98d5153c7f8bb9d9f4022166dae26a47089b97638045aeecf58e30a71e8b6bfcb8ca8c93153a4af4bc33b863dbacee3963d38b5f11e92ccebbc352f994386
+"@ssen/flat-package-name@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/flat-package-name@npm:4.0.0"
+  checksum: 57854115c72383ea8e0b2356632fb42a47ad60954b2b69acb10ea751b9a77a3f8f3960d78e31d6e17cd5cda9f18fadbd224c6227e265113f4d6cb1c2cbd9887b
   languageName: node
   linkType: hard
 
-"@ssen/iterm@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "@ssen/iterm@npm:2.0.0"
+"@ssen/iterm@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "@ssen/iterm@npm:3.0.0"
   dependencies:
-    "@ssen/jxa": ^2.0.0
-  checksum: 63ad160df4bbebb60fc9d5ed7acad4f2f403b39ca03f376ac8727e143a825574081089994e31b8001b0b1d4b44bc81a2a1331b982f65df932ca1d0993cbf25f8
+    "@ssen/jxa": ^3.0.0
+  checksum: 03b0285999f304e77402367179d7079529b2b076153d9e2ffe884a2e40ae1f4fd7793db8fbd7ba1aefff28f5122f584a1e8e2d3c8b07e09c63cc852d45788873
   languageName: node
   linkType: hard
 
-"@ssen/jxa@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "@ssen/jxa@npm:2.0.0"
-  checksum: 54704f3ed28124e4d10e70f2cdbf2b92bce76c4688e51dd52271c4217820b78d1ae8bde3060a87c5106c066e1c5628d0a8adc5561268c10ea21548244a86657b
+"@ssen/jxa@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "@ssen/jxa@npm:3.0.0"
+  checksum: a3d1461290ce1a3ee2958a560f49bd944c6f7a2461ba687c6a9dd2bfd9b7b6af2e87e3ced8155f163baddbcbe67ba2df7fa95446fc6a56776d0f411b8ee4b46b
   languageName: node
   linkType: hard
 
@@ -2151,69 +2151,69 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ssen/promised@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/promised@npm:4.0.0-alpha.1"
+"@ssen/promised@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/promised@npm:4.0.0"
   dependencies:
     glob: ^8.0.3
     rimraf: ^3.0.2
-  checksum: 7c09304d166e204c52e093542220b7f6ae7dc339510cf45cd38920a1af18edaace9afa1edddbbc14e88668b2fb8a81237b647a5912540c4e2423f32365012608
+  checksum: e709dd3059cbf35c7817a5acf949b1f6b482cf41e1c6663c1a364ee7c965d751df5bdb028234c73f55a3c0764d3957d2f0a4ce5a27d23aa738dacf3d413b0461
   languageName: node
   linkType: hard
 
-"@ssen/publish-packages@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/publish-packages@npm:4.0.0-alpha.1"
+"@ssen/publish-packages@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/publish-packages@npm:4.0.0"
   dependencies:
-    "@ssen/flat-package-name": ^4.0.0-alpha.1
+    "@ssen/flat-package-name": ^4.0.0
     fs-extra: ^10.1.0
     package-json: ^7.0.0
     prompts: ^2.4.2
     semver: ^7.3.7
     type-fest: ^2.13.0
-  checksum: 9ccc81615424b5726a3686bf4bb97806799f6e47daba1566b0769d3cbadf828a945241cc3314e32a617a37e9393d1dfc1ec84f81aef37181aa55ee1bf3524ac5
+  checksum: cc7e695a02767a6e66f0c5a7e031debe58682d3b35481d26429472d4e1ee2e1c81a03ad2ad957ff5ab87065077a8b2f5e6b0fb0c6edc34031d01016ac28280a9
   languageName: node
   linkType: hard
 
-"@ssen/read-last-argv@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/read-last-argv@npm:4.0.0-alpha.1"
-  checksum: 0c5a6b85ef9333856fdc4b17ca7ff287b840d97644e42640114f4c2224d756f93ae5a6e59d569738b772ccd88c173aa5c7d35733ebb789ef39d8ae94a2de9f6b
+"@ssen/read-last-argv@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/read-last-argv@npm:4.0.0"
+  checksum: 6ce938203ffc3e41c0ecf19b2d9862083c8bac7bbfe271014fa31197d899f27c11f8e9e314638f74b68bcb1e7eccba082d66914d70b14e3ddc9339917a9735f9
   languageName: node
   linkType: hard
 
-"@ssen/read-tsconfig@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/read-tsconfig@npm:4.0.0-alpha.1"
+"@ssen/read-tsconfig@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/read-tsconfig@npm:4.0.0"
   peerDependencies:
     typescript: ^3.9.0 || ^4.0.0
-  checksum: 7a9657b4936d2bfd9417b433decf2fd9db861de26d6c7d1e362025222332cf8713d8fc1ef73c76011c9af24b4a59956e52f3a4bcb24cf0ff27e65a0cbdc2f2a3
+  checksum: 530eacf76383d7323a3e606425115b00242be3f99d173109a07a0771f726e02914efd9528ebe0fa604033b0c2281f72a5bc6ed240477819df49187a1d78742eb
   languageName: node
   linkType: hard
 
-"@ssen/rewrite-bundle-import@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/rewrite-bundle-import@npm:4.0.0-alpha.1"
-  checksum: 828349b0b3aab81552b5c8ac01464bb89f16bbdfd08cddc24a5101a330d92eaf2c8809396a23c0039d4dc4827937ef1bd28cb857b4fd296f2d773fc57af38eb3
+"@ssen/rewrite-bundle-import@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/rewrite-bundle-import@npm:4.0.0"
+  checksum: a60fc9692375a12de55f256c263c9082781b168a7ceb16f9d7c6a7638cb9585d9300b9d47ef51f95a7ded33f447b20015084173a9d771137620d4d9415875f64
   languageName: node
   linkType: hard
 
-"@ssen/rewrite-src-path@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/rewrite-src-path@npm:4.0.0-alpha.1"
-  checksum: f2cab74e1324d978f97bae8b210c6b71970d7543144fee41d711e7106ca71a21f5d13d5715312c8fc8dcaf5083c47b1d315dd21573227add82f0d44372871c51
+"@ssen/rewrite-src-path@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/rewrite-src-path@npm:4.0.0"
+  checksum: 2b47c73240750e6c2982581de88db808e89968f13c0df4107b3fb3490aa61d1e1cb578df413a0cd02b7b81cb9b5fff088f199cf058e97c9a65b691247d7f7b04
   languageName: node
   linkType: hard
 
-"@ssen/transform@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "@ssen/transform@npm:4.0.0-alpha.1"
+"@ssen/transform@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@ssen/transform@npm:4.0.0"
   dependencies:
     "@svgr/plugin-jsx": ^6.2.1
     fs-extra: ^10.1.0
     js-yaml: ^4.1.0
     mini-svg-data-uri: ^1.4.4
-  checksum: 38cad3c36c79b36802876da772a4cfe25a2650eba6bfaa9fb5e464afcd2b99a04912061bec0c1bb776d3b3983f85f94626df3ee28d284e3a054ff2b730a2c727
+  checksum: 6a3c8878bc6855939d20e07026f9422c583da5eb80ba4f8b82ec0f78b0c404e35c82cade82ea79f70b4b95e162bcb7cab4a3d4cd7bb4671db9ae6006dfce7053
   languageName: node
   linkType: hard
 
@@ -10499,7 +10499,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"js-yaml@npm:^4.0.0, js-yaml@npm:^4.1.0":
+"js-yaml@npm:^4.1.0":
   version: 4.1.0
   resolution: "js-yaml@npm:4.1.0"
   dependencies:
@@ -11663,16 +11663,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"multiplerun@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "multiplerun@npm:2.0.1"
+"multiplerun@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "multiplerun@npm:3.0.0"
   dependencies:
-    "@ssen/iterm": ^2.0.0
-    js-yaml: ^4.0.0
-    yargs: ^16.2.0
+    "@ssen/iterm": ^3.0.0
+    js-yaml: ^4.1.0
+    yargs: ^17.5.1
   bin:
     multiplerun: bin/multiplerun.js
-  checksum: be4dcbe5ad602aec5382e1fd3fff2117dda9304af45a2a75852be1c99fcda8987f59836d5a917f3cae4a93d1b9d06b14857d7c20d71aa562015b1753d2ec15f7
+  checksum: 6fab010922073c6423ceece4cd1781c64258e4a6ba2b703a29c2e0bf8fcadfd7cb8e6abddcd0edee9e595511fe4d6e873ae7b7c4ae1e346b532a732ec72749ce
   languageName: node
   linkType: hard
 
@@ -12366,7 +12366,7 @@ __metadata:
     "@types/node": ^17.0.35
     c8: ^7.11.3
     lint-staged: ^12.4.2
-    rocket-punch: ^4.0.0-alpha.1
+    rocket-punch: ^4.0.0
     typescript: ^4.7.2
     vite-tsconfig-paths: ^3.5.0
     vitest: ^0.12.9
@@ -13962,19 +13962,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rocket-punch@npm:^4.0.0-alpha.1":
-  version: 4.0.0-alpha.1
-  resolution: "rocket-punch@npm:4.0.0-alpha.1"
+"rocket-punch@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "rocket-punch@npm:4.0.0"
   dependencies:
-    "@ssen/bundle-import-rewrite": ^4.0.0-alpha.1
-    "@ssen/collect-dependencies": ^4.0.0-alpha.1
-    "@ssen/extended-compiler-host": ^4.0.0-alpha.1
-    "@ssen/flat-package-name": ^4.0.0-alpha.1
-    "@ssen/promised": ^4.0.0-alpha.1
-    "@ssen/publish-packages": ^4.0.0-alpha.1
-    "@ssen/read-last-argv": ^4.0.0-alpha.1
-    "@ssen/read-tsconfig": ^4.0.0-alpha.1
-    "@ssen/rewrite-src-path": ^4.0.0-alpha.1
+    "@ssen/bundle-import-rewrite": ^4.0.0
+    "@ssen/collect-dependencies": ^4.0.0
+    "@ssen/extended-compiler-host": ^4.0.0
+    "@ssen/flat-package-name": ^4.0.0
+    "@ssen/promised": ^4.0.0
+    "@ssen/publish-packages": ^4.0.0
+    "@ssen/read-last-argv": ^4.0.0
+    "@ssen/read-tsconfig": ^4.0.0
+    "@ssen/rewrite-src-path": ^4.0.0
     chalk: ^4.1.2
     depcheck: ^1.4.3
     fs-extra: ^10.1.0
@@ -13986,7 +13986,7 @@ __metadata:
     typescript: ^3.9.0 || ^4.0.0
   bin:
     rocket-punch: bin/rocket-punch.js
-  checksum: 8b2cc93a3d97cfaf19a0cdaff37aed1170ada4db3a5fa6227a8915f6b78263b910d3f5d0bf540b5bb5a8968256e148a4c3443c56a3a41d4a66669e515562da9f
+  checksum: f25a0bd8a62229af04874e9a100f77b602be085273b861de651da35a93fe4ec70c79784753271fa76541c1cb857144f76cf1cfd4d10dbf82d42bcbead12fff49
   languageName: node
   linkType: hard
 
@@ -16193,7 +16193,7 @@ __metadata:
     c8: ^7.11.3
     cross-env: ^7.0.3
     lint-staged: ^12.4.2
-    multiplerun: ^2.0.1
+    multiplerun: ^3.0.0
     playwright: ^1.22.2
     react: ^18.1.0
     react-dom: ^18.1.0
