@@ -5,7 +5,7 @@ import {chromium} from 'playwright';
 // @see https://github.com/microsoft/vscode-chrome-debug#attach
 const remoteDebuggingPort = +(process.env.INSPECT_CHROME ?? 9222);
 
-const port = +(process.env.PORT ?? 3000);
+const port = +(process.env.PORT ?? 5173);
 
 const browser = await chromium.launch({
   //userDataDir: process.env.CHROMIUM_USER_DATA_DEBUG,

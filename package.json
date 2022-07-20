@@ -21,12 +21,12 @@
   "devDependencies": {
     "@handbook/markdown-source-import": "^1.1.0",
     "@ssen/prettier-config": "^2.0.1",
-    "eslint": "^8.16.0",
+    "eslint": "^8.20.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-react-app": "^7.0.1",
     "husky": "^8.0.1",
-    "lint-staged": "^12.4.2",
-    "prettier": "^2.6.2"
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1"
   },
   "packageManager": "yarn@3.2.1"
 }
